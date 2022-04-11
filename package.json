@@ -1,0 +1,20 @@
+{
+  "name": "express-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Biancabps/express-01.git"
+  },
+  "author": "Bianca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Biancabps/express-01/issues"
+  },
+  "homepage": "https://github.com/Biancabps/express-01#readme",
+  "keywords": ["nodejs", "express"]
+}
