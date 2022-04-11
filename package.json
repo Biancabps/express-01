@@ -16,5 +16,14 @@
     "url": "https://github.com/Biancabps/express-01/issues"
   },
   "homepage": "https://github.com/Biancabps/express-01#readme",
-  "keywords": ["nodejs", "express"]
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
